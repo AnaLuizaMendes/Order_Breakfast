@@ -15,7 +15,7 @@ def print_pause(message):
 
 
 def intro():
-    print_pause("Hello! I am Bob, the Breakfast Bot.")
+    print_pause("Hello! I am Alfred, the Breakfast Bot.")
     print_pause("Today we have two breakfasts available.")
     print_pause("The first is waffles with strawberries and whipped cream.")
     print_pause("The second is sweet potato pancakes with butter and syrup.")
